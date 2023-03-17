@@ -1,0 +1,6 @@
+[submodule "src/third_party/liburing"]
+	path = src/third_party/liburing
+	url = git@github.com:axboe/liburing.git
+[submodule "src/third_party/c-hashmap"]
+	path = src/third_party/c-hashmap
+	url = git@github.com:Mashpoe/c-hashmap.git
