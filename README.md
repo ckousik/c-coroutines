@@ -1,6 +1,6 @@
-# Futures in C
+# Coroutines in C
 
-Implement Futures in C as a learning exercise.
+Implement Coroutines in C as a learning exercise.
 
 Currently, this only works on Linux as it uses `io_uring` for async I/O.
 
